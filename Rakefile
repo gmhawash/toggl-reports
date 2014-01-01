@@ -18,7 +18,7 @@ Jeweler::Tasks.new do |gem|
   gem.homepage = "http://github.com/gmhawash/toggl-reports"
   gem.license = "MIT"
   gem.summary = %Q{Implements Toggl reports api}
-  gem.description = %Q{TODO: longer description of your gem}
+  gem.description = %Q{Implements Toggl reports api}
   gem.email = "gmhawash@gmail.com"
   gem.authors = ["Maher Hawash"]
   # dependencies defined in Gemfile
